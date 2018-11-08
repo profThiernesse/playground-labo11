@@ -17,7 +17,7 @@ int main() {
   return 0;
 }
 
-void echange(int *a,int *b,int *c) {
+void echange(int *a,int *b) {
 	int tmp;
 	tmp = *a;
 	*a=*b;
