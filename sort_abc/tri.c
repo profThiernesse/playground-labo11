@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int echange(int *, int *);
+void echange(int *, int *);
 
 int main() {
   int a, b, c;
