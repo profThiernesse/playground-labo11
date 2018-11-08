@@ -1,4 +1,4 @@
 cmake_minimum_required (VERSION 2.6)
-project (premier)
-add_executable(premier premier.c)
+project (tri)
+add_executable(tri tri.c)
 
