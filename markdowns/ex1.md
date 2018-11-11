@@ -4,4 +4,4 @@ Dans le code ci-dessous, ajouter à l'endroit indiqué le code nécessaire à ob
 
 **NOTE** : il ne faut pas modifier les lignes de saisie et d'affichage.
 
-@[Tri a b c]({"stubs": ["tri.c"],"command": "sh /project/target/run.sh tri"})
+@[Tri a b c]({"stubs": ["tri.c"],"command": "sh /project/target/run.sh tri","project": "sort_abc"})

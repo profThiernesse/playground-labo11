@@ -11,8 +11,18 @@ plan:
 - title: Exercice 4
   statement: markdowns/ex4.md
 projects:
-  premier:
+  sort_abc:
     root: /sort_abc
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  pgcd:
+    root: /pgcd
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  invmod:
+    root: /invmod
     runner:
       name: techio/cmake-gcc-runner
       version: latest
